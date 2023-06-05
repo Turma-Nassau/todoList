@@ -1,0 +1,32 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "text": "Criar funcionalidade de adicionar tarefas",
+      "category": "Trabalho",
+      "isCompleted": false,
+      "isImportant": false
+    },
+    {
+      "id": 2,
+      "text": "Ir à academia",
+      "category": "Pessoal",
+      "isCompleted": false,
+      "isImportant": true
+    },
+    {
+      "id": 3,
+      "text": "Estudar React",
+      "category": "Estudos",
+      "isCompleted": false,
+      "isImportant": false
+    },
+    {
+      "id": 8996,
+      "text": "afdsgag",
+      "category": "Pessoal",
+      "isCompleted": false,
+      "isImportant": false
+    }
+  ]
+}
